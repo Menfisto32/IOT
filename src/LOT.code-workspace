@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Desktop/LOT"
+		},
+		{
+			"name": "ESP32_Vjezba_1",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ESP32_Vjezba_1"
+	}
+}
